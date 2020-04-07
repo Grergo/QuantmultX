@@ -1,0 +1,6 @@
+# (面向港澳台流媒体服务)
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com,面向港澳台流媒体服务
+# > bilibili
+DOMAIN,api.bilibili.com,面向港澳台流媒体服务
+DOMAIN,upos-hz-mirrorakam.akamaized.net,面向港澳台流媒体服务

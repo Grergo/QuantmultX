@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,blogspot,代理
 DOMAIN-KEYWORD,iobit,代理
 DOMAIN-KEYWORD,sophos,代理
 DOMAIN-KEYWORD,unsplash,代理
+DOMAIN-KEYWORD,v2ex,代理
 # > Microsoft
 DOMAIN-SUFFIX,onedrive.live.com,代理
 DOMAIN-SUFFIX,xboxlive.com,代理
